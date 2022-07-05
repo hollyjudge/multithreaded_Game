@@ -1,5 +1,0 @@
-I wrote my program on a vm, so using drop(1) was very slow so I used drop(50) so i could test easier. I assume this issue I had with speed was due to working on a vm. If your computer is faster then you can you please change it to drop(1) which i know it is supposed to be. 
-
-end button does not work 
-
-WordApp is the class to run to play the game from
