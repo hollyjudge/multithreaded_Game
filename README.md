@@ -1,4 +1,4 @@
-# multiThreadedGame
+# multi-threaded_Game
 A multithreaded game of "falling words". 
 
 This game should operate as follows:
